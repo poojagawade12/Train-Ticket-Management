@@ -13,6 +13,3 @@ This Java-based application allows you to book train tickets online. It provides
 3. **Card Details**:
    - You can securely enter your card details for payment. The application ensures the confidentiality of your card information, making your online booking experience worry-free.
 
----
-
-Feel free to expand this README file with additional information or instructions as needed for users of your application.
