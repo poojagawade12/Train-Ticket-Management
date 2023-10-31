@@ -1,6 +1,4 @@
-Certainly! Here's a simple README file with the important points you provided:
 
----
 
 # Train Ticket Booking Application
 
